@@ -20,7 +20,7 @@ please follow the procedure in ["Publishing npm packages"](https://docs.npmjs.co
 Then install it via:
 
 ```shell
-npm install mimespost --save
+npm install mimepost --save
 ```
 
 ##### Local development
